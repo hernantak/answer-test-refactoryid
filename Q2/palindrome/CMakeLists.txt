@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(run-q-1)
+project(palindrome)
 
 add_compile_options(-std=c++11)
 
@@ -12,6 +12,5 @@ set(CMAKE_AUTOUIC ON)
 ## The recommended prefix ensures that target names across packages don't collide
 
 add_executable(${PROJECT_NAME}
-    q_1.cpp 
-    q_1.h
+    palindrome.cpp 
 )

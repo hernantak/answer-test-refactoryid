@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/palindrome.dir/palindrome.cpp.o  -o palindrome -rdynamic 

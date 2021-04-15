@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/hernanta/01D4C2E5D070CDE0/MyCode/Work/Refactory-id test/Q2/leap_year/leap_year.cpp
+iostream
+-
+
