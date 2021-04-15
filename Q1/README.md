@@ -10,11 +10,11 @@ There are :
 5. The price.
 
 How to build :
-1. Create folder build using ```system mkdir build```
-3. ```cd build/```
-4. ```system cmake ..```
-5. ```system make```
+1. Create folder build using ``` mkdir build ```
+3. ``` cd build/ ```
+4. ``` cmake .. ```
+5. ``` make ```
 
 How to run :
-1. ```system cd build/```
-2. ```./run-q-1```
+1. ``` cd build/ ```
+2. ``` ./run-q-1 ```
