@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/run-q-1.dir/q_1.cpp.o  -o run-q-1 -rdynamic 
